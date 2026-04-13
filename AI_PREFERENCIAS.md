@@ -28,12 +28,12 @@ Este archivo es una copia de seguridad local para este proyecto. El original res
 2. **Configuración de Git:** Usar comillas `""` en el nombre y evitar el símbolo `~`.
 3. **Commit Inicial:** Verificar correo y nombre global si el primer commit falla.
 4. **TODOs Automáticos:** Ignorar los avisos de `TODO` en archivos por defecto de Android.
-5. **Sincronización de Reloj:** Ajustada la hora local a la del sistema de Mario (GMT-6 aproximadamente) para reportes precisos.
-6. **Registro de Actividad:** Última modificación realizada el 24/05/2024 a las 21:42 (Hora local de Mario).
+5. **Sincronización de Reloj:** Ajustada la hora local a la del sistema de Mario (21:55).
+6. **Registro de Actividad:** Última modificación realizada el 24/05/2024 a las 21:55 desde el proyecto **CortoOC201702**.
 
 ## 📋 Reglas de Interacción Semiautomática
 1. **Sincronización Dual:** La IA editará este archivo Y el archivo central simultáneamente.
 2. **Ruta Local Central:** `C:/Users/netoz/AndroidStudioProjects/Mario-Config-IA/README.md`
 3. **Estrategia Espejo Global:** Mantener siempre esta copia local actualizada en cada proyecto.
-4. **Reporte de Push:** Siempre que Mario indique que ha realizado un "Push", la IA debe informar la fecha y hora de la última modificación registrada en el perfil.
+4. **Reporte de Push Detallado:** Siempre que Mario indique que ha realizado un "Push", la IA debe informar: **Nombre del Proyecto**, **Fecha** y **Hora** de la última modificación registrada.
 5. **Cierre de Proyecto:** Frase motivacional: "Hay más estrellas en el cielo que ideas."
